@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Console Appender with ANSI Color Codes -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>
+                    %highlight{%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level - %msg}{DEBUG=gray, INFO=green, WARN=yellow, ERROR=red, FATAL=bgRed}%n
+                </Pattern>
+            </PatternLayout>
+        </Console>
+
+        <!-- Rolling File Appender -->
+        <RollingFile name="RollingFile" fileName="logs/automation-test.log"
+                     filePattern="logs/automation-test-%d{yyyy-MM-dd}.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <TimeBasedTriggeringPolicy/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="RollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

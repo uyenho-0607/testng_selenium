@@ -1,0 +1,44 @@
+2025-01-31 21:11:23 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (a919cc8916051a9f80d501445ab625d1)] -> id: login-form-username] to be visible
+2025-01-31 21:11:24 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (a919cc8916051a9f80d501445ab625d1)] -> id: txtPassword] to be visible
+2025-01-31 21:11:24 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (a919cc8916051a9f80d501445ab625d1)] -> css selector: .btn.btn-default] to be clickable
+2025-01-31 21:11:24 [main] INFO  - Clicking on element: [[ChromeDriver: chrome on mac (a919cc8916051a9f80d501445ab625d1)] -> css selector: .btn.btn-default]
+2025-01-31 21:11:24 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:18:52 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (e55740e58e32a908338dc07f9edc12b3)] -> id: login-form-username] to be visible
+2025-01-31 21:18:53 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (e55740e58e32a908338dc07f9edc12b3)] -> id: txtPassword] to be visible
+2025-01-31 21:18:53 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (e55740e58e32a908338dc07f9edc12b3)] -> css selector: .btn.btn-default] to be clickable
+2025-01-31 21:18:53 [main] INFO  - Clicking on element: [[ChromeDriver: chrome on mac (e55740e58e32a908338dc07f9edc12b3)] -> css selector: .btn.btn-default]
+2025-01-31 21:18:53 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:20:25 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (357a0ae410fcc733a91bd27cbd3b85fb)] -> id: login-form-username] to be visible
+2025-01-31 21:20:26 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (357a0ae410fcc733a91bd27cbd3b85fb)] -> id: txtPassword] to be visible
+2025-01-31 21:20:26 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (357a0ae410fcc733a91bd27cbd3b85fb)] -> css selector: .btn.btn-default] to be clickable
+2025-01-31 21:20:26 [main] INFO  - Clicking on element: [[ChromeDriver: chrome on mac (357a0ae410fcc733a91bd27cbd3b85fb)] -> css selector: .btn.btn-default]
+2025-01-31 21:20:26 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:21:47 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (14575689152d9334a26023d34c698507)] -> id: login-form-username] to be visible
+2025-01-31 21:21:47 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (14575689152d9334a26023d34c698507)] -> id: txtPassword] to be visible
+2025-01-31 21:21:47 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (14575689152d9334a26023d34c698507)] -> css selector: .btn.btn-default] to be clickable
+2025-01-31 21:21:47 [main] INFO  - Clicking on element: [[ChromeDriver: chrome on mac (14575689152d9334a26023d34c698507)] -> css selector: .btn.btn-default]
+2025-01-31 21:21:48 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:21:58 [main] ERROR - Element Proxy element for: DefaultElementLocator 'By.id: tab-bar' not visible !
+2025-01-31 21:21:58 [main] WARN  - [isDisplayed] Element Proxy element for: DefaultElementLocator 'By.id: tab-bar' is not displayed.
+2025-01-31 21:23:56 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (3f50c869c1c21f5c6f41a7550a70b45b)] -> id: login-form-username] to be visible
+2025-01-31 21:23:56 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (3f50c869c1c21f5c6f41a7550a70b45b)] -> id: txtPassword] to be visible
+2025-01-31 21:23:56 [main] INFO  - Waiting for element: [[ChromeDriver: chrome on mac (3f50c869c1c21f5c6f41a7550a70b45b)] -> css selector: .btn.btn-default] to be clickable
+2025-01-31 21:23:56 [main] INFO  - Clicking on element: [[ChromeDriver: chrome on mac (3f50c869c1c21f5c6f41a7550a70b45b)] -> css selector: .btn.btn-default]
+2025-01-31 21:23:56 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:24:07 [main] ERROR - Element Proxy element for: DefaultElementLocator 'By.id: tab-bar' not visible !
+2025-01-31 21:24:07 [main] WARN  - [isDisplayed] Element Proxy element for: DefaultElementLocator 'By.id: tab-bar' is not displayed.
+2025-01-31 21:31:50 [main] INFO  - Waiting for element: Unknown Locator to be visible
+2025-01-31 21:31:50 [main] INFO  - Waiting for element: Unknown Locator to be visible
+2025-01-31 21:31:51 [main] INFO  - Waiting for element: Unknown Locator to be clickable
+2025-01-31 21:31:51 [main] INFO  - Clicking on element: Unknown Locator
+2025-01-31 21:31:51 [main] INFO  - Waiting for element: Unknown Locator to be visible
+2025-01-31 21:36:50 [main] INFO  - Waiting for element: id: login-form-username] to be visible
+2025-01-31 21:36:50 [main] INFO  - Waiting for element: id: txtPassword] to be visible
+2025-01-31 21:36:50 [main] INFO  - Waiting for element: css selector: .btn.btn-default] to be clickable
+2025-01-31 21:36:51 [main] INFO  - Clicking on element: css selector: .btn.btn-default]
+2025-01-31 21:36:51 [main] INFO  - Waiting for element: Proxy element for: DefaultElementLocator 'By.id: tab-bar' to be visible
+2025-01-31 21:40:10 [main] INFO  - Waiting for element: id: login-form-username to be visible
+2025-01-31 21:40:11 [main] INFO  - Waiting for element: id: txtPassword to be visible
+2025-01-31 21:40:11 [main] INFO  - Waiting for element: css selector: .btn.btn-default to be clickable
+2025-01-31 21:40:11 [main] INFO  - Clicking on element: css selector: .btn.btn-default
+2025-01-31 21:40:11 [main] INFO  - Waiting for element: 'By.id: tab-bar' to be visible
